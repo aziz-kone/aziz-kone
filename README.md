@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering especially API Development. I'm also passionnated about Data manipulation such as ETL, Data Analysis.
 - 🌱 I’m currently learning Data Analysis and Engineering 
 - 💞️ I’m looking to collaborate with all people in love with data.
-- 📫 How to reach me by Email azyz.kone@outlook.com or on Linkedin https://www.linkedin.com/in/aziz-rodrigue-kone/
+- 📫 You can reach me by Email azyz.kone@outlook.com or on Linkedin https://www.linkedin.com/in/aziz-rodrigue-kone/
 
 
 <!---
